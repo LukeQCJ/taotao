@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;pagehelper&apos;" deleteContents="false" description="Delete resource &apos;pagehelper&apos;" element1="/pagehelper" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1532349189121"/>
+</session>
